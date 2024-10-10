@@ -11,3 +11,7 @@
 - dotnet clean vai limpar todos os arquivos no cache, muito importante.
 
 - dotnet run para rodar a aplicação e dotnet build para compilar
+
+- json significa JavaScript Object Notation
+
+- Não pode ter o mesmo namespace no mesmo arquivo.
